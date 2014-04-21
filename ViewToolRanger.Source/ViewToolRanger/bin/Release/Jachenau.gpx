@@ -1,0 +1,3960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" 
+creator="/2.9.2 http://www.viewranger.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:viewranger="http://www.viewranger.com/xmlschemas/GpxExtensions/v2"
+xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2
+http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.viewranger.com/xmlschemas/GpxExtensions/v2 http://www.viewranger.com/xmlschemas/GpxExtensions/v2/GpxExtensionsV2.xsd">
+<rte>
+<name><![CDATA[AkademieAmBadersee-EibseeUndZurück]]></name>
+<type><![CDATA[Garmisch]]></type>
+<rtept lat="47.473352" lon="11.015265">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.473488" lon="11.015727">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.470711" lon="11.011118">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.469058" lon="11.011801">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.468067" lon="11.009545">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.467233" lon="11.008866">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.466498" lon="11.006397">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.465363" lon="11.005387">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.465769" lon="11.003644">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.464946" lon="11.000754">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.462994" lon="10.999557">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.462127" lon="11.000703">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.459987" lon="10.998221">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.459143" lon="10.998144">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.459093" lon="10.996554">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.457762" lon="10.995513">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.457249" lon="10.990220">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.455681" lon="10.986766">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.455764" lon="10.983985">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.454454" lon="10.983095">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.453679" lon="10.980003">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.452010" lon="10.979094">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.451274" lon="10.972671">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.450630" lon="10.971861">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.450703" lon="10.970549">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.451815" lon="10.969981">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.451529" lon="10.968285">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.454005" lon="10.964253">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.456973" lon="10.961229">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="47.458380" lon="10.960776">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="47.461270" lon="10.956779">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="47.461602" lon="10.958929">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="47.461173" lon="10.961062">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="47.462181" lon="10.961963">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="47.462968" lon="10.964293">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="47.461730" lon="10.972082">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="47.462354" lon="10.973443">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="47.462298" lon="10.975638">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="47.461656" lon="10.978083">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="47.461815" lon="10.979860">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="47.460357" lon="10.983639">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="47.460905" lon="10.984518">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="47.460831" lon="10.987687">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="47.459685" lon="10.989638">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="47.458356" lon="10.990208">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="47.457592" lon="10.992249">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="47.457719" lon="10.995275">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="47.459052" lon="10.996291">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="47.458971" lon="10.997666">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+<rtept lat="47.459843" lon="10.998003">
+<name><![CDATA[WP0050]]></name>
+</rtept>
+<rtept lat="47.461389" lon="11.000332">
+<name><![CDATA[WP0051]]></name>
+</rtept>
+<rtept lat="47.461946" lon="11.000592">
+<name><![CDATA[WP0052]]></name>
+</rtept>
+<rtept lat="47.462420" lon="10.999983">
+<name><![CDATA[WP0053]]></name>
+</rtept>
+<rtept lat="47.464058" lon="11.001098">
+<name><![CDATA[WP0054]]></name>
+</rtept>
+<rtept lat="47.465099" lon="11.004216">
+<name><![CDATA[WP0055]]></name>
+</rtept>
+<rtept lat="47.464844" lon="11.005756">
+<name><![CDATA[WP0056]]></name>
+</rtept>
+<rtept lat="47.467400" lon="11.009255">
+<name><![CDATA[WP0057]]></name>
+</rtept>
+<rtept lat="47.467965" lon="11.009372">
+<name><![CDATA[WP0058]]></name>
+</rtept>
+<rtept lat="47.468755" lon="11.011289">
+<name><![CDATA[WP0059]]></name>
+</rtept>
+<rtept lat="47.470438" lon="11.010836">
+<name><![CDATA[WP0060]]></name>
+</rtept>
+<rtept lat="47.473480" lon="11.015700">
+<name><![CDATA[WP0061]]></name>
+</rtept>
+<rtept lat="47.473933" lon="11.015214">
+<name><![CDATA[WP0062]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Höllentalklamm-Kreuzeck]]></name>
+<type><![CDATA[Garmisch]]></type>
+<rtept lat="47.472301" lon="11.062136">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.471508" lon="11.062105">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.470471" lon="11.058039">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.472241" lon="11.056657">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.467387" lon="11.049494">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.466323" lon="11.048657">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.464017" lon="11.044496">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.462305" lon="11.044383">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.461973" lon="11.045213">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.460468" lon="11.045950">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.460063" lon="11.045513">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.460990" lon="11.045175">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.460816" lon="11.044232">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.459936" lon="11.043777">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.456546" lon="11.045236">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.453209" lon="11.043703">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.450004" lon="11.043721">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.449827" lon="11.042965">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.448970" lon="11.042932">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.448502" lon="11.044270">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.448090" lon="11.044254">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.445753" lon="11.041825">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.444485" lon="11.041776">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.444836" lon="11.039871">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.442521" lon="11.037957">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.441441" lon="11.036278">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.439330" lon="11.028245">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.437742" lon="11.024721">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.438375" lon="11.028394">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="47.438361" lon="11.032790">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="47.439139" lon="11.033615">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="47.439065" lon="11.037822">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="47.440287" lon="11.040442">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="47.441143" lon="11.040522">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="47.440943" lon="11.042806">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="47.441359" lon="11.046190">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="47.442488" lon="11.046936">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="47.442928" lon="11.048965">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="47.443370" lon="11.049075">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="47.443347" lon="11.050522">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="47.442671" lon="11.051057">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="47.444511" lon="11.051129">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="47.444274" lon="11.051915">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="47.444604" lon="11.053003">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="47.445109" lon="11.053163">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="47.445095" lon="11.053958">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="47.447296" lon="11.055073">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="47.447381" lon="11.055638">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="47.447739" lon="11.055184">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+<rtept lat="47.447283" lon="11.057552">
+<name><![CDATA[WP0050]]></name>
+</rtept>
+<rtept lat="47.448218" lon="11.058524">
+<name><![CDATA[WP0051]]></name>
+</rtept>
+<rtept lat="47.448378" lon="11.063724">
+<name><![CDATA[WP0052]]></name>
+</rtept>
+<rtept lat="47.449861" lon="11.066163">
+<name><![CDATA[WP0053]]></name>
+</rtept>
+<rtept lat="47.450776" lon="11.066479">
+<name><![CDATA[WP0054]]></name>
+</rtept>
+<rtept lat="47.451919" lon="11.068209">
+<name><![CDATA[WP0055]]></name>
+</rtept>
+<rtept lat="47.452661" lon="11.072823">
+<name><![CDATA[WP0056]]></name>
+</rtept>
+<rtept lat="47.453524" lon="11.072482">
+<name><![CDATA[WP0057]]></name>
+</rtept>
+<rtept lat="47.455032" lon="11.076800">
+<name><![CDATA[WP0058]]></name>
+</rtept>
+<rtept lat="47.456493" lon="11.078495">
+<name><![CDATA[WP0059]]></name>
+</rtept>
+<rtept lat="47.457386" lon="11.081759">
+<name><![CDATA[WP0060]]></name>
+</rtept>
+<rtept lat="47.457731" lon="11.082068">
+<name><![CDATA[WP0061]]></name>
+</rtept>
+<rtept lat="47.458934" lon="11.078699">
+<name><![CDATA[WP0062]]></name>
+</rtept>
+<rtept lat="47.459977" lon="11.078927">
+<name><![CDATA[WP0063]]></name>
+</rtept>
+<rtept lat="47.459521" lon="11.077833">
+<name><![CDATA[WP0064]]></name>
+</rtept>
+<rtept lat="47.460413" lon="11.077634">
+<name><![CDATA[WP0065]]></name>
+</rtept>
+<rtept lat="47.460750" lon="11.076571">
+<name><![CDATA[WP0066]]></name>
+</rtept>
+<rtept lat="47.462522" lon="11.076828">
+<name><![CDATA[WP0067]]></name>
+</rtept>
+<rtept lat="47.464290" lon="11.080874">
+<name><![CDATA[WP0068]]></name>
+</rtept>
+<rtept lat="47.465616" lon="11.081254">
+<name><![CDATA[WP0069]]></name>
+</rtept>
+<rtept lat="47.466040" lon="11.082394">
+<name><![CDATA[WP0070]]></name>
+</rtept>
+<rtept lat="47.466050" lon="11.085296">
+<name><![CDATA[WP0071]]></name>
+</rtept>
+<rtept lat="47.469405" lon="11.085803">
+<name><![CDATA[WP0072]]></name>
+</rtept>
+<rtept lat="47.468995" lon="11.083915">
+<name><![CDATA[WP0073]]></name>
+</rtept>
+<rtept lat="47.470650" lon="11.078411">
+<name><![CDATA[WP0074]]></name>
+</rtept>
+<rtept lat="47.471201" lon="11.077777">
+<name><![CDATA[WP0075]]></name>
+</rtept>
+<rtept lat="47.470791" lon="11.077668">
+<name><![CDATA[WP0076]]></name>
+</rtept>
+<rtept lat="47.470983" lon="11.075804">
+<name><![CDATA[WP0077]]></name>
+</rtept>
+<rtept lat="47.471458" lon="11.075869">
+<name><![CDATA[WP0078]]></name>
+</rtept>
+<rtept lat="47.473034" lon="11.079957">
+<name><![CDATA[WP0079]]></name>
+</rtept>
+<rtept lat="47.476595" lon="11.083093">
+<name><![CDATA[WP0080]]></name>
+</rtept>
+<rtept lat="47.477608" lon="11.083227">
+<name><![CDATA[WP0081]]></name>
+</rtept>
+<rtept lat="47.477713" lon="11.084448">
+<name><![CDATA[WP0082]]></name>
+</rtept>
+<rtept lat="47.478654" lon="11.085047">
+<name><![CDATA[WP0083]]></name>
+</rtept>
+<rtept lat="47.478229" lon="11.082221">
+<name><![CDATA[WP0084]]></name>
+</rtept>
+<rtept lat="47.479683" lon="11.082560">
+<name><![CDATA[WP0085]]></name>
+</rtept>
+<rtept lat="47.479454" lon="11.081193">
+<name><![CDATA[WP0086]]></name>
+</rtept>
+<rtept lat="47.475341" lon="11.075227">
+<name><![CDATA[WP0087]]></name>
+</rtept>
+<rtept lat="47.474664" lon="11.072298">
+<name><![CDATA[WP0088]]></name>
+</rtept>
+<rtept lat="47.475024" lon="11.068193">
+<name><![CDATA[WP0089]]></name>
+</rtept>
+<rtept lat="47.473394" lon="11.063587">
+<name><![CDATA[WP0090]]></name>
+</rtept>
+<rtept lat="47.472189" lon="11.063540">
+<name><![CDATA[WP0091]]></name>
+</rtept>
+<rtept lat="47.472237" lon="11.062606">
+<name><![CDATA[WP0092]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Partnachklamm-wamberg]]></name>
+<type><![CDATA[Garmisch]]></type>
+<rtept lat="47.485310" lon="11.116890">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.485840" lon="11.116670">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.485580" lon="11.116260">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.484240" lon="11.116770">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.483430" lon="11.118000">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.482200" lon="11.116450">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.480470" lon="11.116030">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.478530" lon="11.113300">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.476920" lon="11.112620">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.469780" lon="11.119390">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.468330" lon="11.119320">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.466140" lon="11.120550">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.465190" lon="11.123660">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.462990" lon="11.124820">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.462020" lon="11.126010">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.460750" lon="11.126280">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.460430" lon="11.128810">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.460670" lon="11.129300">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.460970" lon="11.128560">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.461250" lon="11.129460">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.461560" lon="11.128570">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.461640" lon="11.133900">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.462620" lon="11.136540">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.463020" lon="11.142470">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.464600" lon="11.141910">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.465200" lon="11.142710">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.466200" lon="11.142690">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.466610" lon="11.143460">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.467830" lon="11.142800">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="47.470260" lon="11.147030">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="47.472300" lon="11.145910">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="47.473420" lon="11.145930">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="47.475010" lon="11.147060">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="47.476360" lon="11.146010">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="47.476730" lon="11.148410">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="47.479000" lon="11.150210">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="47.478310" lon="11.138010">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="47.479930" lon="11.134270">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="47.480780" lon="11.134560">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="47.481520" lon="11.131140">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="47.481240" lon="11.129800">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="47.482170" lon="11.128440">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="47.482430" lon="11.126000">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="47.483660" lon="11.125110">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="47.484230" lon="11.120620">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="47.486430" lon="11.117620">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="47.485840" lon="11.116670">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.485310" lon="11.116890">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[PartnachKlamm22]]></name>
+<type><![CDATA[Garmisch]]></type>
+<rtept lat="47.482251" lon="11.119497">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.482275" lon="11.116654">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.480345" lon="11.115783">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.478779" lon="11.113282">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.476748" lon="11.112469">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.476735" lon="11.111196">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.476145" lon="11.111100">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.473057" lon="11.114077">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.471273" lon="11.113812">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.470069" lon="11.114820">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.469236" lon="11.114623">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.467347" lon="11.116081">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.465546" lon="11.116024">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.462618" lon="11.118465">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.463072" lon="11.120143">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.460613" lon="11.119803">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.461627" lon="11.123174">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.460391" lon="11.122563">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.459731" lon="11.123475">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.462712" lon="11.124387">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.463800" lon="11.122498">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.464873" lon="11.122134">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.465903" lon="11.120674">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.470615" lon="11.118620">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.476772" lon="11.112551">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.478524" lon="11.113169">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.480420" lon="11.116002">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.482073" lon="11.117115">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.482234" lon="11.119483">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Sprungschanze]]></name>
+<type><![CDATA[Garmisch]]></type>
+<rtept lat="47.490860" lon="11.100580">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.489170" lon="11.103830">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.486810" lon="11.106540">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.484590" lon="11.111610">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.483410" lon="11.112720">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.482750" lon="11.116590">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.480410" lon="11.116020">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.482170" lon="11.117270">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.482250" lon="11.120570">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.481650" lon="11.122210">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.482200" lon="11.120730">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.481620" lon="11.119570">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.481600" lon="11.119980">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.480890" lon="11.119390">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.480340" lon="11.120130">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.479210" lon="11.119980">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.479660" lon="11.119140">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.479550" lon="11.119590">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.480260" lon="11.120070">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.480700" lon="11.119490">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.481900" lon="11.119900">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.481940" lon="11.118770">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.482690" lon="11.117320">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.483580" lon="11.117610">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.489050" lon="11.113790">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.487860" lon="11.111970">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.486780" lon="11.108880">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.485850" lon="11.107790">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.486720" lon="11.103690">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="47.488850" lon="11.101900">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="47.488850" lon="11.100180">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="47.490980" lon="11.098660">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="47.491530" lon="11.097640">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="47.495200" lon="11.095570">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="47.496890" lon="11.098720">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="47.497230" lon="11.101760">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="47.494430" lon="11.105090">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="47.493560" lon="11.104160">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="47.492420" lon="11.101010">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[WanderungPartnachklamm]]></name>
+<type><![CDATA[Garmisch]]></type>
+<rtept lat="47.482441" lon="11.116711">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.480854" lon="11.116435">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.478645" lon="11.113321">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.476956" lon="11.112683">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.469965" lon="11.119155">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.466076" lon="11.120749">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.465583" lon="11.121658">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.463745" lon="11.122764">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.462963" lon="11.124218">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.462792" lon="11.124662">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.463365" lon="11.124831">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.466057" lon="11.122738">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.467085" lon="11.122620">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.465609" lon="11.125094">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.461953" lon="11.126764">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.461781" lon="11.127301">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.462596" lon="11.127506">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.462159" lon="11.127794">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.462902" lon="11.128434">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.462794" lon="11.128934">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.463165" lon="11.128829">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.463009" lon="11.129459">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.463868" lon="11.129229">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.463543" lon="11.130264">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.464158" lon="11.131549">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.464255" lon="11.130651">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.465185" lon="11.131471">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.465123" lon="11.132384">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.465522" lon="11.131723">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="47.465408" lon="11.132501">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="47.465831" lon="11.132492">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="47.467138" lon="11.137161">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="47.467828" lon="11.142641">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="47.470149" lon="11.146954">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="47.470956" lon="11.147053">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="47.472184" lon="11.145869">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="47.473335" lon="11.145850">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="47.474871" lon="11.146947">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="47.476416" lon="11.146108">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="47.476883" lon="11.148529">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="47.479000" lon="11.150273">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="47.478348" lon="11.138014">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="47.479122" lon="11.137037">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="47.479318" lon="11.135187">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="47.481413" lon="11.132340">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="47.481318" lon="11.129749">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="47.482160" lon="11.128456">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="47.482446" lon="11.126145">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="47.482974" lon="11.125344">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+<rtept lat="47.482099" lon="11.121089">
+<name><![CDATA[WP0050]]></name>
+</rtept>
+<rtept lat="47.482538" lon="11.120205">
+<name><![CDATA[WP0051]]></name>
+</rtept>
+<rtept lat="47.482476" lon="11.116739">
+<name><![CDATA[WP0052]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Heimgarten-Herzogstand]]></name>
+<type><![CDATA[Jachenau]]></type>
+<rtept lat="47.594501" lon="11.315188">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.594991" lon="11.315139">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.594139" lon="11.314724">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.593212" lon="11.311252">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.593491" lon="11.308773">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.594172" lon="11.307425">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.593869" lon="11.305560">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.593964" lon="11.304920">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.594695" lon="11.305086">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.596528" lon="11.303619">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.596687" lon="11.304065">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.597420" lon="11.301684">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.598300" lon="11.296319">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.598208" lon="11.294373">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.598767" lon="11.292793">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.598920" lon="11.283613">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.600069" lon="11.282972">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.601680" lon="11.283236">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.602651" lon="11.284201">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.604336" lon="11.281444">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.606521" lon="11.280361">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.607469" lon="11.280791">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.607641" lon="11.279349">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.607885" lon="11.279801">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.608626" lon="11.279018">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.608558" lon="11.279582">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.609090" lon="11.279724">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.610404" lon="11.278382">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.612352" lon="11.280721">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="47.613667" lon="11.281025">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="47.614004" lon="11.282196">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="47.613484" lon="11.282151">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="47.613466" lon="11.283044">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="47.614672" lon="11.287138">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="47.615116" lon="11.291321">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="47.614693" lon="11.302333">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="47.614293" lon="11.303246">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="47.614289" lon="11.306821">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="47.613325" lon="11.308100">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="47.613470" lon="11.309738">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="47.612911" lon="11.308442">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="47.612749" lon="11.309610">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="47.611784" lon="11.308174">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="47.609402" lon="11.309578">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="47.606837" lon="11.312279">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="47.606161" lon="11.314677">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="47.606733" lon="11.316212">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="47.595910" lon="11.316316">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="47.594551" lon="11.315644">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Hirschhörnlkopf]]></name>
+<type><![CDATA[Jachenau]]></type>
+<rtept lat="47.606740" lon="11.431609">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.607043" lon="11.428911">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.611791" lon="11.420231">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.612795" lon="11.420918">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.613484" lon="11.423408">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.614839" lon="11.423745">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.615505" lon="11.422614">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.617004" lon="11.421781">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.616911" lon="11.419734">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.618299" lon="11.417695">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.619065" lon="11.414856">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.619977" lon="11.415544">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.620972" lon="11.414939">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.621990" lon="11.415758">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.622092" lon="11.415331">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.623114" lon="11.415541">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.623010" lon="11.417050">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.623944" lon="11.416569">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.625166" lon="11.417834">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.625779" lon="11.415429">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.626056" lon="11.411487">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.627484" lon="11.407908">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.627490" lon="11.406228">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Hirschhörnlkopf2]]></name>
+<type><![CDATA[Jachenau]]></type>
+<rtept lat="47.605541" lon="11.436034">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.607414" lon="11.428554">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.612018" lon="11.420192">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.613485" lon="11.423059">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.614977" lon="11.423654">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.615580" lon="11.422565">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.617069" lon="11.421734">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.617003" lon="11.419851">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.619168" lon="11.414918">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.619985" lon="11.415519">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.621025" lon="11.414947">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.622416" lon="11.415315">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.623351" lon="11.415946">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.623212" lon="11.416819">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.624545" lon="11.416915">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.625285" lon="11.418346">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.626049" lon="11.411976">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.627099" lon="11.409467">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.627516" lon="11.406545">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.627452" lon="11.408368">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.626073" lon="11.411769">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.626096" lon="11.414624">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.625188" lon="11.418441">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.623942" lon="11.416862">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.622919" lon="11.417194">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.623137" lon="11.415835">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.622692" lon="11.415584">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.619134" lon="11.415130">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.618789" lon="11.415241">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="47.618389" lon="11.417719">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="47.616936" lon="11.419876">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="47.617044" lon="11.421927">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="47.615829" lon="11.422479">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="47.614855" lon="11.423753">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="47.613609" lon="11.423421">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="47.612499" lon="11.420660">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="47.611834" lon="11.420397">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="47.606848" lon="11.429607">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="47.605491" lon="11.436682">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Jachenau]]></name>
+<type><![CDATA[Jachenau]]></type>
+<rtept lat="47.604557" lon="11.441862">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.605521" lon="11.438526">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.605828" lon="11.434542">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.604838" lon="11.431741">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.606381" lon="11.420467">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.608014" lon="11.415215">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.607584" lon="11.412018">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.608045" lon="11.410733">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.607065" lon="11.408742">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.606215" lon="11.405160">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.606750" lon="11.402379">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.605974" lon="11.401298">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.605737" lon="11.399417">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.606344" lon="11.395330">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.607460" lon="11.391831">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.607221" lon="11.389241">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.607705" lon="11.381712">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.608501" lon="11.377638">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.607315" lon="11.372163">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.607325" lon="11.370457">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.607766" lon="11.369802">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.606049" lon="11.369398">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.604792" lon="11.371278">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.603585" lon="11.371393">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.601399" lon="11.368423">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.601735" lon="11.365098">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.601110" lon="11.364337">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.599279" lon="11.365116">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.598815" lon="11.369447">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="47.596849" lon="11.373456">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="47.594671" lon="11.374305">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="47.592022" lon="11.373399">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="47.590212" lon="11.374479">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="47.587065" lon="11.380395">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="47.585036" lon="11.382532">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="47.584548" lon="11.384210">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="47.585725" lon="11.392931">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="47.586356" lon="11.394639">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="47.586069" lon="11.395378">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="47.586801" lon="11.396350">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="47.587453" lon="11.399802">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="47.590756" lon="11.402502">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="47.591835" lon="11.402104">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="47.594101" lon="11.403246">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="47.595578" lon="11.406686">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="47.596119" lon="11.409417">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="47.597219" lon="11.410115">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="47.597694" lon="11.411133">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="47.598101" lon="11.413019">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+<rtept lat="47.597989" lon="11.417147">
+<name><![CDATA[WP0050]]></name>
+</rtept>
+<rtept lat="47.597417" lon="11.418723">
+<name><![CDATA[WP0051]]></name>
+</rtept>
+<rtept lat="47.597709" lon="11.419626">
+<name><![CDATA[WP0052]]></name>
+</rtept>
+<rtept lat="47.597334" lon="11.421466">
+<name><![CDATA[WP0053]]></name>
+</rtept>
+<rtept lat="47.600521" lon="11.426725">
+<name><![CDATA[WP0054]]></name>
+</rtept>
+<rtept lat="47.602515" lon="11.428191">
+<name><![CDATA[WP0055]]></name>
+</rtept>
+<rtept lat="47.602911" lon="11.429638">
+<name><![CDATA[WP0056]]></name>
+</rtept>
+<rtept lat="47.604633" lon="11.432140">
+<name><![CDATA[WP0057]]></name>
+</rtept>
+<rtept lat="47.604505" lon="11.432601">
+<name><![CDATA[WP0058]]></name>
+</rtept>
+<rtept lat="47.605758" lon="11.433819">
+<name><![CDATA[WP0059]]></name>
+</rtept>
+<rtept lat="47.605556" lon="11.438196">
+<name><![CDATA[WP0060]]></name>
+</rtept>
+<rtept lat="47.604779" lon="11.440467">
+<name><![CDATA[WP0061]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Jachenau-walchensee]]></name>
+<type><![CDATA[Jachenau]]></type>
+<rtept lat="47.606254" lon="11.432895">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.606955" lon="11.429230">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.611588" lon="11.420401">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.611446" lon="11.419006">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.610593" lon="11.419348">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.609234" lon="11.417302">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.607172" lon="11.418788">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.607871" lon="11.414657">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.607588" lon="11.412067">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.608076" lon="11.410864">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.606159" lon="11.405300">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.606908" lon="11.402366">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.605776" lon="11.400783">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.605850" lon="11.397789">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.607436" lon="11.391520">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.607196" lon="11.388797">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.608402" lon="11.378741">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.607190" lon="11.370909">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.607904" lon="11.369903">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.605832" lon="11.369396">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.604854" lon="11.371469">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.603325" lon="11.371421">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.601055" lon="11.367591">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.601534" lon="11.364660">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.600409" lon="11.364607">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.598886" lon="11.365623">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.598771" lon="11.369215">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.596367" lon="11.373698">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.594481" lon="11.374252">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="47.591823" lon="11.373420">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="47.590032" lon="11.374837">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="47.586601" lon="11.380728">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="47.584725" lon="11.383010">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="47.584466" lon="11.385073">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="47.586225" lon="11.394492">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="47.585826" lon="11.395626">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="47.586926" lon="11.399602">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="47.588465" lon="11.401512">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="47.589996" lon="11.401827">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="47.590992" lon="11.403145">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="47.592562" lon="11.402330">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="47.594233" lon="11.403640">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="47.596014" lon="11.408939">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="47.597644" lon="11.411048">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="47.598010" lon="11.412307">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="47.597115" lon="11.421958">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="47.598695" lon="11.423137">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="47.600194" lon="11.426245">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="47.602273" lon="11.428284">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+<rtept lat="47.604997" lon="11.433441">
+<name><![CDATA[WP0050]]></name>
+</rtept>
+<rtept lat="47.606255" lon="11.433161">
+<name><![CDATA[WP0051]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[JachenauerWaldlauf]]></name>
+<type><![CDATA[Jachenau]]></type>
+<rtept lat="47.606636" lon="11.429989">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.605278" lon="11.439640">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.607319" lon="11.440024">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.609520" lon="11.437416">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.611839" lon="11.432017">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.613743" lon="11.430931">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.615406" lon="11.432975">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.616558" lon="11.437762">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.617695" lon="11.436891">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.617264" lon="11.435399">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.617634" lon="11.434028">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.616814" lon="11.432020">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.615837" lon="11.427029">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.613789" lon="11.424323">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.612690" lon="11.420807">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.612091" lon="11.420315">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.606933" lon="11.428825">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.606148" lon="11.432361">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.606975" lon="11.432288">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.607925" lon="11.433348">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.608654" lon="11.432451">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.609737" lon="11.432798">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.610233" lon="11.431962">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.610496" lon="11.429088">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.613758" lon="11.426879">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.616028" lon="11.427917">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.613476" lon="11.423571">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.612869" lon="11.420829">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.612080" lon="11.420233">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="47.608868" lon="11.425607">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="47.607807" lon="11.427845">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="47.608032" lon="11.428779">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="47.606819" lon="11.430764">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[SchneeschuhwanderungAufZwölferköpfl]]></name>
+<type><![CDATA[Jachenau]]></type>
+<rtept lat="47.598901" lon="11.452864">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.597749" lon="11.453145">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.595494" lon="11.452351">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.594227" lon="11.452559">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.593779" lon="11.453381">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.592846" lon="11.452538">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.591497" lon="11.454555">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.590948" lon="11.454375">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.589496" lon="11.449512">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.590925" lon="11.447579">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.585794" lon="11.440036">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.585481" lon="11.435866">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.584242" lon="11.432974">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.583729" lon="11.427147">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.583254" lon="11.426442">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.582432" lon="11.426927">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.582646" lon="11.429225">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.582267" lon="11.432134">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.581398" lon="11.431920">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.583052" lon="11.435232">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.583311" lon="11.439534">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.582972" lon="11.441165">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.581875" lon="11.441736">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.581771" lon="11.443104">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.583301" lon="11.445826">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.585250" lon="11.447129">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.586307" lon="11.446923">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.589735" lon="11.449784">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.590286" lon="11.450880">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="47.590510" lon="11.455462">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="47.591485" lon="11.457647">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="47.591666" lon="11.454084">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="47.592601" lon="11.452491">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="47.593698" lon="11.453363">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="47.595334" lon="11.452199">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="47.597764" lon="11.453095">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="47.598872" lon="11.452820">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Staffel281110Walk+fly]]></name>
+<type><![CDATA[Jachenau]]></type>
+<rtept lat="47.602003" lon="11.466785">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="47.602827" lon="11.467975">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="47.602918" lon="11.470637">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="47.602719" lon="11.471400">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="47.601656" lon="11.472146">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="47.600779" lon="11.478068">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="47.599741" lon="11.480147">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="47.597154" lon="11.480741">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="47.596582" lon="11.481346">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="47.596644" lon="11.482168">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="47.596052" lon="11.482646">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="47.595602" lon="11.482196">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="47.595357" lon="11.483808">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="47.590239" lon="11.482482">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="47.588545" lon="11.480354">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="47.587798" lon="11.480931">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="47.586669" lon="11.480492">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="47.585672" lon="11.476647">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="47.583477" lon="11.475955">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="47.583326" lon="11.474344">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="47.583031" lon="11.474352">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="47.582768" lon="11.470961">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="47.583879" lon="11.469149">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="47.585639" lon="11.467957">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="47.584384" lon="11.468942">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="47.584691" lon="11.470676">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="47.586532" lon="11.472680">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="47.588545" lon="11.472700">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="47.589794" lon="11.467726">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="47.591488" lon="11.463572">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="47.593132" lon="11.463551">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="47.593543" lon="11.462381">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="47.593328" lon="11.461067">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="47.595092" lon="11.458974">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="47.597806" lon="11.459400">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="47.601113" lon="11.462164">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="47.603477" lon="11.465885">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="47.604062" lon="11.467799">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="47.603860" lon="11.469052">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="47.602411" lon="11.470322">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="47.601710" lon="11.470074">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="47.601545" lon="11.466989">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="47.600791" lon="11.465876">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="47.600631" lon="11.467775">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="47.601306" lon="11.468102">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="47.601791" lon="11.467232">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="47.601216" lon="11.467288">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="47.600850" lon="11.465343">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Acker]]></name>
+<type><![CDATA[Schönaich]]></type>
+<rtept lat="48.653835" lon="9.069611">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="48.653687" lon="9.069096">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="48.653325" lon="9.069149">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="48.651865" lon="9.070437">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="48.651029" lon="9.070523">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="48.650136" lon="9.070652">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="48.650107" lon="9.071596">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="48.650426" lon="9.072679">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="48.651277" lon="9.075023">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="48.651610" lon="9.074943">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="48.651950" lon="9.074407">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="48.652942" lon="9.073060">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="48.653237" lon="9.070845">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="48.653311" lon="9.071145">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="48.653453" lon="9.071338">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="48.654020" lon="9.070630">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="48.654027" lon="9.070147">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="48.653850" lon="9.069675">
+<name><![CDATA[WP0017]]></name>
+<cmt><![CDATA[<sound E:\Music\Ray Charles\The Entertainers\(10)  Unchain My Heart.mp3>(10)  Unchain My Heart</sound>]]></cmt>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Betzenberg>Schaichtal]]></name>
+<type><![CDATA[Schönaich]]></type>
+<rtept lat="48.611702" lon="9.108946">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="48.611775" lon="9.108532">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="48.611866" lon="9.110683">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="48.612673" lon="9.111955">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="48.615930" lon="9.114905">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="48.614578" lon="9.127965">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="48.614886" lon="9.138363">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="48.618600" lon="9.145419">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="48.621011" lon="9.154885">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="48.621745" lon="9.160830">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="48.622437" lon="9.162847">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="48.627142" lon="9.173047">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="48.630769" lon="9.178223">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="48.628959" lon="9.185158">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="48.627819" lon="9.186655">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="48.624853" lon="9.187808">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="48.624403" lon="9.190601">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="48.621591" lon="9.197019">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="48.621335" lon="9.197413">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="48.619163" lon="9.196324">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="48.618318" lon="9.197513">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="48.617470" lon="9.200019">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="48.618437" lon="9.203728">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="48.618405" lon="9.205603">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="48.614969" lon="9.202713">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="48.610724" lon="9.194141">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="48.608113" lon="9.191582">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="48.607939" lon="9.189792">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="48.606717" lon="9.186717">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="48.606384" lon="9.182776">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="48.605045" lon="9.179294">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="48.604956" lon="9.177004">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="48.605630" lon="9.172513">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="48.605077" lon="9.168554">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="48.605522" lon="9.164627">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="48.605018" lon="9.164166">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="48.605115" lon="9.160431">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="48.605476" lon="9.158242">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="48.606324" lon="9.156516">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="48.602835" lon="9.141762">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="48.601237" lon="9.137368">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="48.600994" lon="9.129338">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="48.599594" lon="9.124454">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="48.599818" lon="9.120406">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="48.602269" lon="9.116993">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="48.603623" lon="9.111552">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="48.604956" lon="9.109735">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="48.606449" lon="9.109550">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="48.606783" lon="9.108549">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+<rtept lat="48.606524" lon="9.105128">
+<name><![CDATA[WP0050]]></name>
+</rtept>
+<rtept lat="48.607691" lon="9.102863">
+<name><![CDATA[WP0051]]></name>
+</rtept>
+<rtept lat="48.608324" lon="9.103249">
+<name><![CDATA[WP0052]]></name>
+</rtept>
+<rtept lat="48.609643" lon="9.106702">
+<name><![CDATA[WP0053]]></name>
+</rtept>
+<rtept lat="48.611825" lon="9.110514">
+<name><![CDATA[WP0054]]></name>
+</rtept>
+<rtept lat="48.611499" lon="9.108416">
+<name><![CDATA[WP0055]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Ibm]]></name>
+<type><![CDATA[Schönaich]]></type>
+<rtept lat="48.667470" lon="9.039602">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="48.665458" lon="9.042091">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="48.664579" lon="9.044366">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="48.662481" lon="9.046855">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="48.661064" lon="9.048958">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="48.658825" lon="9.055567">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="48.657691" lon="9.058614">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="48.656812" lon="9.062605">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="48.655791" lon="9.064236">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="48.655026" lon="9.067111">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="48.654176" lon="9.068420">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Mauren]]></name>
+<type><![CDATA[Schönaich]]></type>
+<rtept lat="48.653963" lon="9.069364">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="48.653977" lon="9.070222">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="48.654431" lon="9.070201">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="48.655324" lon="9.068892">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="48.655494" lon="9.067841">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="48.656344" lon="9.068055">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="48.658527" lon="9.066703">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="48.659023" lon="9.067111">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="48.659590" lon="9.066725">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="48.660355" lon="9.067175">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="48.661943" lon="9.065008">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="48.662779" lon="9.064279">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="48.663303" lon="9.062841">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="48.663927" lon="9.063013">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="48.665160" lon="9.062369">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="48.666265" lon="9.062133">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="48.666662" lon="9.063184">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="48.667626" lon="9.062734">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="48.667966" lon="9.061403">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="48.668915" lon="9.061167">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="48.669071" lon="9.062004">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="48.669312" lon="9.061446">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="48.669666" lon="9.060802">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="48.670191" lon="9.058292">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="48.670729" lon="9.055374">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="48.670630" lon="9.049237">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="48.670545" lon="9.046941">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="48.670205" lon="9.046576">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="48.670205" lon="9.045525">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="48.669312" lon="9.041104">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="48.669142" lon="9.040761">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="48.668717" lon="9.040289">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="48.669610" lon="9.037778">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="48.669553" lon="9.037070">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="48.670162" lon="9.035289">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="48.670049" lon="9.032156">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="48.669411" lon="9.031513">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="48.667867" lon="9.030526">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="48.667867" lon="9.029388">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="48.667824" lon="9.027479">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="48.667569" lon="9.025548">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="48.666237" lon="9.021385">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="48.665231" lon="9.019389">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="48.662453" lon="9.013252">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="48.661943" lon="9.008961">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="48.662085" lon="9.006214">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="48.662878" lon="9.005957">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="48.663105" lon="9.003510">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="48.661886" lon="8.997030">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+<rtept lat="48.663162" lon="8.990378">
+<name><![CDATA[WP0050]]></name>
+</rtept>
+<rtept lat="48.662453" lon="8.988748">
+<name><![CDATA[WP0051]]></name>
+</rtept>
+<rtept lat="48.661603" lon="8.983212">
+<name><![CDATA[WP0052]]></name>
+</rtept>
+<rtept lat="48.657237" lon="8.983641">
+<name><![CDATA[WP0053]]></name>
+</rtept>
+<rtept lat="48.653779" lon="8.984585">
+<name><![CDATA[WP0054]]></name>
+</rtept>
+<rtept lat="48.651964" lon="8.986216">
+<name><![CDATA[WP0055]]></name>
+</rtept>
+<rtept lat="48.651766" lon="8.977890">
+<name><![CDATA[WP0056]]></name>
+</rtept>
+<rtept lat="48.650717" lon="8.977890">
+<name><![CDATA[WP0057]]></name>
+</rtept>
+<rtept lat="48.650830" lon="8.979349">
+<name><![CDATA[WP0058]]></name>
+</rtept>
+<rtept lat="48.648108" lon="8.986559">
+<name><![CDATA[WP0059]]></name>
+</rtept>
+<rtept lat="48.647201" lon="8.987246">
+<name><![CDATA[WP0060]]></name>
+</rtept>
+<rtept lat="48.646520" lon="8.995743">
+<name><![CDATA[WP0061]]></name>
+</rtept>
+<rtept lat="48.646294" lon="9.002008">
+<name><![CDATA[WP0062]]></name>
+</rtept>
+<rtept lat="48.646464" lon="9.009647">
+<name><![CDATA[WP0063]]></name>
+</rtept>
+<rtept lat="48.651936" lon="9.011278">
+<name><![CDATA[WP0064]]></name>
+</rtept>
+<rtept lat="48.657748" lon="9.013681">
+<name><![CDATA[WP0065]]></name>
+</rtept>
+<rtept lat="48.663417" lon="9.019604">
+<name><![CDATA[WP0066]]></name>
+</rtept>
+<rtept lat="48.665117" lon="9.023809">
+<name><![CDATA[WP0067]]></name>
+</rtept>
+<rtept lat="48.665571" lon="9.029474">
+<name><![CDATA[WP0068]]></name>
+</rtept>
+<rtept lat="48.665911" lon="9.033680">
+<name><![CDATA[WP0069]]></name>
+</rtept>
+<rtept lat="48.667498" lon="9.040375">
+<name><![CDATA[WP0070]]></name>
+</rtept>
+<rtept lat="48.665798" lon="9.042263">
+<name><![CDATA[WP0071]]></name>
+</rtept>
+<rtept lat="48.665401" lon="9.042563">
+<name><![CDATA[WP0072]]></name>
+</rtept>
+<rtept lat="48.664466" lon="9.044323">
+<name><![CDATA[WP0073]]></name>
+</rtept>
+<rtept lat="48.662481" lon="9.046597">
+<name><![CDATA[WP0074]]></name>
+</rtept>
+<rtept lat="48.660951" lon="9.049602">
+<name><![CDATA[WP0075]]></name>
+</rtept>
+<rtept lat="48.657577" lon="9.058700">
+<name><![CDATA[WP0076]]></name>
+</rtept>
+<rtept lat="48.656670" lon="9.062562">
+<name><![CDATA[WP0077]]></name>
+</rtept>
+<rtept lat="48.655678" lon="9.064322">
+<name><![CDATA[WP0078]]></name>
+</rtept>
+<rtept lat="48.654998" lon="9.067025">
+<name><![CDATA[WP0079]]></name>
+</rtept>
+<rtept lat="48.654090" lon="9.068484">
+<name><![CDATA[WP0080]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Mauren actual]]></name>
+<type><![CDATA[Schönaich]]></type>
+<extensions><gpx_style:line><gpx_style:color>FF8000</gpx_style:color>
+</gpx_style:line></extensions>
+<rtept lat="48.654450" lon="9.068757">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="48.654252" lon="9.069152">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="48.655180" lon="9.067044">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="48.656386" lon="9.068071">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="48.658414" lon="9.066779">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="48.660683" lon="9.067324">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="48.662792" lon="9.064306">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="48.664561" lon="9.066904">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="48.667179" lon="9.066851">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="48.667672" lon="9.063936">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="48.668538" lon="9.063319">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="48.669886" lon="9.059867">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="48.670855" lon="9.052402">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="48.670760" lon="9.048793">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="48.669227" lon="9.041328">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="48.670089" lon="9.035889">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="48.669869" lon="9.032339">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="48.668030" lon="9.030538">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="48.667926" lon="9.027342">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="48.667215" lon="9.024106">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="48.662993" lon="9.014601">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="48.661772" lon="9.008387">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="48.663062" lon="9.004542">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="48.661876" lon="8.996748">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="48.663139" lon="8.990098">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="48.661658" lon="8.983058">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="48.661126" lon="8.976847">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="48.659602" lon="8.971486">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="48.658215" lon="8.969525">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="48.657206" lon="8.966853">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="48.655196" lon="8.968188">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="48.653740" lon="8.967865">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="48.653206" lon="8.970407">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="48.651464" lon="8.971901">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="48.650609" lon="8.976497">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="48.650575" lon="8.980155">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="48.648015" lon="8.986572">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="48.647126" lon="8.987324">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="48.646887" lon="8.995822">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="48.646808" lon="8.995774">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="48.645891" lon="8.996638">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="48.644743" lon="8.996649">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="48.644531" lon="8.998575">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="48.643271" lon="9.000658">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="48.642621" lon="9.003371">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="48.640912" lon="9.004004">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+<rtept lat="48.641131" lon="9.005043">
+<name><![CDATA[WP0050]]></name>
+</rtept>
+<rtept lat="48.642339" lon="9.005270">
+<name><![CDATA[WP0051]]></name>
+</rtept>
+<rtept lat="48.642182" lon="9.007168">
+<name><![CDATA[WP0052]]></name>
+</rtept>
+<rtept lat="48.643803" lon="9.007539">
+<name><![CDATA[WP0053]]></name>
+</rtept>
+<rtept lat="48.644544" lon="9.008593">
+<name><![CDATA[WP0054]]></name>
+</rtept>
+<rtept lat="48.657573" lon="9.013409">
+<name><![CDATA[WP0055]]></name>
+</rtept>
+<rtept lat="48.662152" lon="9.017409">
+<name><![CDATA[WP0056]]></name>
+</rtept>
+<rtept lat="48.663845" lon="9.019558">
+<name><![CDATA[WP0057]]></name>
+</rtept>
+<rtept lat="48.664871" lon="9.022935">
+<name><![CDATA[WP0058]]></name>
+</rtept>
+<rtept lat="48.665393" lon="9.030093">
+<name><![CDATA[WP0059]]></name>
+</rtept>
+<rtept lat="48.667423" lon="9.039579">
+<name><![CDATA[WP0060]]></name>
+</rtept>
+<rtept lat="48.665796" lon="9.041372">
+<name><![CDATA[WP0061]]></name>
+</rtept>
+<rtept lat="48.665573" lon="9.042335">
+<name><![CDATA[WP0062]]></name>
+</rtept>
+<rtept lat="48.665904" lon="9.049687">
+<name><![CDATA[WP0063]]></name>
+</rtept>
+<rtept lat="48.664397" lon="9.044451">
+<name><![CDATA[WP0064]]></name>
+</rtept>
+<rtept lat="48.662591" lon="9.046493">
+<name><![CDATA[WP0065]]></name>
+</rtept>
+<rtept lat="48.661449" lon="9.048797">
+<name><![CDATA[WP0066]]></name>
+</rtept>
+<rtept lat="48.662120" lon="9.042908">
+<name><![CDATA[WP0067]]></name>
+</rtept>
+<rtept lat="48.661254" lon="9.040468">
+<name><![CDATA[WP0068]]></name>
+</rtept>
+<rtept lat="48.660889" lon="9.037036">
+<name><![CDATA[WP0069]]></name>
+</rtept>
+<rtept lat="48.661334" lon="9.032277">
+<name><![CDATA[WP0070]]></name>
+</rtept>
+<rtept lat="48.661788" lon="9.025133">
+<name><![CDATA[WP0071]]></name>
+</rtept>
+<rtept lat="48.660424" lon="9.026563">
+<name><![CDATA[WP0072]]></name>
+</rtept>
+<rtept lat="48.656310" lon="9.036611">
+<name><![CDATA[WP0073]]></name>
+</rtept>
+<rtept lat="48.653221" lon="9.041065">
+<name><![CDATA[WP0074]]></name>
+</rtept>
+<rtept lat="48.653712" lon="9.044916">
+<name><![CDATA[WP0075]]></name>
+</rtept>
+<rtept lat="48.654471" lon="9.044688">
+<name><![CDATA[WP0076]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Schoenaich-Aich-Schoenaich]]></name>
+<type><![CDATA[Schönaich]]></type>
+<rtept lat="48.658428" lon="9.067540">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="48.658540" lon="9.066720">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="48.659670" lon="9.066610">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="48.659270" lon="9.065500">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="48.656240" lon="9.062190">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="48.655990" lon="9.063910">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="48.654670" lon="9.063740">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="48.653650" lon="9.064830">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="48.650510" lon="9.064940">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="48.649690" lon="9.066810">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="48.649290" lon="9.072520">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="48.651180" lon="9.077010">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="48.651200" lon="9.082460">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="48.651960" lon="9.087260">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="48.651820" lon="9.102080">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="48.651010" lon="9.103650">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="48.648030" lon="9.104850">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="48.646870" lon="9.106780">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="48.644950" lon="9.108380">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="48.643640" lon="9.115380">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="48.642780" lon="9.116900">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="48.640700" lon="9.118550">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="48.637510" lon="9.126200">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="48.637440" lon="9.127650">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="48.638510" lon="9.131280">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="48.638140" lon="9.133320">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="48.636320" lon="9.136200">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="48.636530" lon="9.140510">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="48.636140" lon="9.148060">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="48.635100" lon="9.152290">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="48.636040" lon="9.156710">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="48.635240" lon="9.161170">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="48.635890" lon="9.165370">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="48.635190" lon="9.170140">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="48.634430" lon="9.172290">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="48.635180" lon="9.176030">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="48.634240" lon="9.183670">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="48.634240" lon="9.189150">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="48.631960" lon="9.192240">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="48.630450" lon="9.192510">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="48.629120" lon="9.193740">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="48.628690" lon="9.196420">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="48.627560" lon="9.198620">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="48.626830" lon="9.203020">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="48.624710" lon="9.209000">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="48.624120" lon="9.215670">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="48.620470" lon="9.225200">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="48.620810" lon="9.235630">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="48.622720" lon="9.238820">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+<rtept lat="48.620810" lon="9.235630">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="48.620470" lon="9.225200">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="48.624280" lon="9.215120">
+<name><![CDATA[WP0050]]></name>
+</rtept>
+<rtept lat="48.624710" lon="9.209000">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="48.626830" lon="9.203020">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="48.627560" lon="9.198620">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="48.628690" lon="9.196420">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="48.629120" lon="9.193740">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="48.632990" lon="9.191210">
+<name><![CDATA[WP0051]]></name>
+</rtept>
+<rtept lat="48.634240" lon="9.189150">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="48.634240" lon="9.183670">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="48.635180" lon="9.176030">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="48.634480" lon="9.171800">
+<name><![CDATA[WP0052]]></name>
+</rtept>
+<rtept lat="48.635120" lon="9.170420">
+<name><![CDATA[WP0053]]></name>
+</rtept>
+<rtept lat="48.635890" lon="9.165370">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="48.635240" lon="9.161170">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="48.636010" lon="9.156400">
+<name><![CDATA[WP0054]]></name>
+</rtept>
+<rtept lat="48.635100" lon="9.152290">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="48.636230" lon="9.148500">
+<name><![CDATA[WP0055]]></name>
+</rtept>
+<rtept lat="48.636320" lon="9.136200">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="48.638140" lon="9.133320">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="48.638510" lon="9.131280">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="48.637440" lon="9.127650">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="48.637510" lon="9.126200">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="48.640700" lon="9.118550">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="48.642780" lon="9.116900">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="48.643640" lon="9.115380">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="48.644880" lon="9.108500">
+<name><![CDATA[WP0056]]></name>
+</rtept>
+<rtept lat="48.646780" lon="9.106870">
+<name><![CDATA[WP0057]]></name>
+</rtept>
+<rtept lat="48.648030" lon="9.104850">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="48.650630" lon="9.103960">
+<name><![CDATA[WP0058]]></name>
+</rtept>
+<rtept lat="48.651580" lon="9.102860">
+<name><![CDATA[WP0059]]></name>
+</rtept>
+<rtept lat="48.652070" lon="9.091620">
+<name><![CDATA[WP0060]]></name>
+</rtept>
+<rtept lat="48.651960" lon="9.087260">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="48.651060" lon="9.080200">
+<name><![CDATA[WP0061]]></name>
+</rtept>
+<rtept lat="48.652163" lon="9.079041">
+<name><![CDATA[WP0062]]></name>
+</rtept>
+<rtept lat="48.653169" lon="9.076509">
+<name><![CDATA[WP0063]]></name>
+</rtept>
+<rtept lat="48.655352" lon="9.075222">
+<name><![CDATA[WP0064]]></name>
+</rtept>
+<rtept lat="48.657535" lon="9.070287">
+<name><![CDATA[WP0065]]></name>
+</rtept>
+<rtept lat="48.659661" lon="9.067948">
+<name><![CDATA[WP0066]]></name>
+</rtept>
+<rtept lat="48.660922" lon="9.067497">
+<name><![CDATA[WP0067]]></name>
+</rtept>
+<rtept lat="48.659831" lon="9.066810">
+<name><![CDATA[WP0068]]></name>
+</rtept>
+<rtept lat="48.658428" lon="9.067690">
+<name><![CDATA[WP0069]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Schönbuch1]]></name>
+<type><![CDATA[Schönaich]]></type>
+<rtept lat="48.644762" lon="9.019557">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="48.645403" lon="9.019557">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="48.645935" lon="9.020638">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="48.646685" lon="9.020387">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="48.646108" lon="9.017572">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="48.646580" lon="9.016890">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="48.648162" lon="9.016553">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="48.649507" lon="9.014398">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="48.650028" lon="9.014588">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="48.650960" lon="9.011245">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="48.649127" lon="9.010140">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="48.638768" lon="9.006860">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="48.635997" lon="9.007767">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="48.632962" lon="9.010787">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="48.627180" lon="9.021770">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="48.625682" lon="9.022702">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="48.621763" lon="9.022222">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="48.615633" lon="9.024840">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="48.615790" lon="9.023250">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="48.612532" lon="9.020683">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="48.610205" lon="9.022312">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="48.607727" lon="9.022068">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="48.607037" lon="9.023835">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="48.604763" lon="9.024428">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="48.601603" lon="9.024268">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="48.598018" lon="9.021000">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="48.597040" lon="9.021397">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="48.592753" lon="9.020212">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="48.591815" lon="9.019048">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="48.592955" lon="9.015913">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="48.594938" lon="9.014415">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="48.594898" lon="9.010065">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="48.598407" lon="9.000973">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="48.600150" lon="8.997968">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="48.604698" lon="9.002255">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="48.603242" lon="8.989233">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="48.605255" lon="8.981648">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="48.606152" lon="8.979792">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="48.608815" lon="8.977200">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="48.609013" lon="8.975645">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="48.608645" lon="8.973798">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="48.609508" lon="8.971433">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="48.609115" lon="8.968383">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="48.609448" lon="8.962173">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="48.611303" lon="8.959303">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="48.620058" lon="8.950422">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="48.621168" lon="8.951745">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="48.625635" lon="8.965520">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="48.625342" lon="8.966167">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+<rtept lat="48.623990" lon="8.966220">
+<name><![CDATA[WP0050]]></name>
+</rtept>
+<rtept lat="48.625567" lon="8.971648">
+<name><![CDATA[WP0051]]></name>
+</rtept>
+<rtept lat="48.626598" lon="8.972563">
+<name><![CDATA[WP0052]]></name>
+</rtept>
+<rtept lat="48.631843" lon="8.972728">
+<name><![CDATA[WP0053]]></name>
+</rtept>
+<rtept lat="48.634858" lon="8.976993">
+<name><![CDATA[WP0054]]></name>
+</rtept>
+<rtept lat="48.635993" lon="8.974805">
+<name><![CDATA[WP0055]]></name>
+</rtept>
+<rtept lat="48.636720" lon="8.974975">
+<name><![CDATA[WP0056]]></name>
+</rtept>
+<rtept lat="48.638803" lon="8.977167">
+<name><![CDATA[WP0057]]></name>
+</rtept>
+<rtept lat="48.641742" lon="8.978152">
+<name><![CDATA[WP0058]]></name>
+</rtept>
+<rtept lat="48.644438" lon="8.981585">
+<name><![CDATA[WP0059]]></name>
+</rtept>
+<rtept lat="48.642975" lon="8.984053">
+<name><![CDATA[WP0060]]></name>
+</rtept>
+<rtept lat="48.644545" lon="8.989307">
+<name><![CDATA[WP0061]]></name>
+</rtept>
+<rtept lat="48.644825" lon="8.995832">
+<name><![CDATA[WP0062]]></name>
+</rtept>
+<rtept lat="48.644402" lon="8.999110">
+<name><![CDATA[WP0063]]></name>
+</rtept>
+<rtept lat="48.643383" lon="9.000312">
+<name><![CDATA[WP0064]]></name>
+</rtept>
+<rtept lat="48.642877" lon="9.002337">
+<name><![CDATA[WP0065]]></name>
+</rtept>
+<rtept lat="48.644683" lon="9.003015">
+<name><![CDATA[WP0066]]></name>
+</rtept>
+<rtept lat="48.644315" lon="9.006203">
+<name><![CDATA[WP0067]]></name>
+</rtept>
+<rtept lat="48.646425" lon="9.007185">
+<name><![CDATA[WP0068]]></name>
+</rtept>
+<rtept lat="48.646778" lon="9.009447">
+<name><![CDATA[WP0069]]></name>
+</rtept>
+<rtept lat="48.650657" lon="9.010745">
+<name><![CDATA[WP0070]]></name>
+</rtept>
+<rtept lat="48.651132" lon="9.011648">
+<name><![CDATA[WP0071]]></name>
+</rtept>
+<rtept lat="48.650637" lon="9.014635">
+<name><![CDATA[WP0072]]></name>
+</rtept>
+<rtept lat="48.647658" lon="9.017028">
+<name><![CDATA[WP0073]]></name>
+</rtept>
+<rtept lat="48.646632" lon="9.016723">
+<name><![CDATA[WP0074]]></name>
+</rtept>
+<rtept lat="48.646727" lon="9.020367">
+<name><![CDATA[WP0075]]></name>
+</rtept>
+<rtept lat="48.645883" lon="9.020647">
+<name><![CDATA[WP0076]]></name>
+</rtept>
+<rtept lat="48.645603" lon="9.019538">
+<name><![CDATA[WP0077]]></name>
+</rtept>
+<rtept lat="48.645182" lon="9.019632">
+<name><![CDATA[WP0078]]></name>
+</rtept>
+<rtept lat="48.645490" lon="9.019522">
+<name><![CDATA[WP0079]]></name>
+</rtept>
+<rtept lat="48.645703" lon="9.020538">
+<name><![CDATA[WP0080]]></name>
+</rtept>
+<rtept lat="48.646707" lon="9.020877">
+<name><![CDATA[WP0081]]></name>
+</rtept>
+<rtept lat="48.646337" lon="9.022703">
+<name><![CDATA[WP0082]]></name>
+</rtept>
+<rtept lat="48.646933" lon="9.029193">
+<name><![CDATA[WP0083]]></name>
+</rtept>
+<rtept lat="48.646475" lon="9.030258">
+<name><![CDATA[WP0084]]></name>
+</rtept>
+<rtept lat="48.646370" lon="9.034165">
+<name><![CDATA[WP0085]]></name>
+</rtept>
+<rtept lat="48.647752" lon="9.040625">
+<name><![CDATA[WP0086]]></name>
+</rtept>
+<rtept lat="48.650978" lon="9.039830">
+<name><![CDATA[WP0087]]></name>
+</rtept>
+<rtept lat="48.652732" lon="9.038213">
+<name><![CDATA[WP0088]]></name>
+</rtept>
+<rtept lat="48.653555" lon="9.034678">
+<name><![CDATA[WP0089]]></name>
+</rtept>
+<rtept lat="48.656863" lon="9.030370">
+<name><![CDATA[WP0090]]></name>
+</rtept>
+<rtept lat="48.657733" lon="9.028515">
+<name><![CDATA[WP0091]]></name>
+</rtept>
+<rtept lat="48.659627" lon="9.027025">
+<name><![CDATA[WP0092]]></name>
+</rtept>
+<rtept lat="48.659952" lon="9.024913">
+<name><![CDATA[WP0093]]></name>
+</rtept>
+<rtept lat="48.661027" lon="9.023683">
+<name><![CDATA[WP0094]]></name>
+</rtept>
+<rtept lat="48.661333" lon="9.022210">
+<name><![CDATA[WP0095]]></name>
+</rtept>
+<rtept lat="48.658923" lon="9.017502">
+<name><![CDATA[WP0096]]></name>
+</rtept>
+<rtept lat="48.657663" lon="9.013502">
+<name><![CDATA[WP0097]]></name>
+</rtept>
+<rtept lat="48.651277" lon="9.011043">
+<name><![CDATA[WP0098]]></name>
+</rtept>
+<rtept lat="48.650642" lon="9.014747">
+<name><![CDATA[WP0099]]></name>
+</rtept>
+<rtept lat="48.649162" lon="9.015327">
+<name><![CDATA[WP0100]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Schönbuch3]]></name>
+<type><![CDATA[Schönaich]]></type>
+<rtept lat="48.633706" lon="9.001129">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="48.633245" lon="9.000399">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="48.630520" lon="9.000442">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="48.628975" lon="8.998983">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="48.628074" lon="8.999219">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="48.627773" lon="8.998425">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="48.627140" lon="8.998597">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="48.620692" lon="9.002781">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="48.617045" lon="9.006407">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="48.614931" lon="9.010119">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="48.615371" lon="9.014797">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="48.614952" lon="9.016514">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="48.615188" lon="9.022050">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="48.612581" lon="9.020612">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="48.610189" lon="9.022307">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="48.607775" lon="9.022050">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="48.607367" lon="9.022694">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="48.610243" lon="9.037628">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="48.600833" lon="9.039967">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="48.597035" lon="9.045009">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="48.594289" lon="9.044773">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="48.592315" lon="9.043572">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="48.589439" lon="9.044752">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="48.588860" lon="9.044366">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="48.587873" lon="9.040911">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="48.587100" lon="9.039752">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="48.584397" lon="9.037950">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="48.580534" lon="9.037886">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="48.579429" lon="9.036212">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="48.576704" lon="9.034324">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="48.581253" lon="9.018938">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="48.585738" lon="9.013295">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="48.586618" lon="9.009068">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="48.587733" lon="9.006150">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="48.586403" lon="8.997180">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="48.584515" lon="8.995206">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="48.584139" lon="8.992953">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="48.585309" lon="8.991430">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="48.585706" lon="8.988984">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="48.589225" lon="8.979564">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="48.591467" lon="8.977010">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="48.592958" lon="8.977032">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="48.593742" lon="8.976409">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="48.594997" lon="8.976860">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="48.597464" lon="8.971774">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="48.599278" lon="8.965938">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="48.601584" lon="8.963792">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="48.603172" lon="8.964822">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="48.604063" lon="8.968942">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+<rtept lat="48.606380" lon="8.970337">
+<name><![CDATA[WP0050]]></name>
+</rtept>
+<rtept lat="48.610618" lon="8.967955">
+<name><![CDATA[WP0051]]></name>
+</rtept>
+<rtept lat="48.613633" lon="8.967719">
+<name><![CDATA[WP0052]]></name>
+</rtept>
+<rtept lat="48.614781" lon="8.966582">
+<name><![CDATA[WP0053]]></name>
+</rtept>
+<rtept lat="48.619115" lon="8.966732">
+<name><![CDATA[WP0054]]></name>
+</rtept>
+<rtept lat="48.619748" lon="8.970616">
+<name><![CDATA[WP0055]]></name>
+</rtept>
+<rtept lat="48.620735" lon="8.973019">
+<name><![CDATA[WP0056]]></name>
+</rtept>
+<rtept lat="48.621422" lon="8.973040">
+<name><![CDATA[WP0057]]></name>
+</rtept>
+<rtept lat="48.620446" lon="8.976946">
+<name><![CDATA[WP0058]]></name>
+</rtept>
+<rtept lat="48.619641" lon="8.991001">
+<name><![CDATA[WP0059]]></name>
+</rtept>
+<rtept lat="48.621304" lon="8.996472">
+<name><![CDATA[WP0060]]></name>
+</rtept>
+<rtept lat="48.622870" lon="8.995936">
+<name><![CDATA[WP0061]]></name>
+</rtept>
+<rtept lat="48.624705" lon="8.996601">
+<name><![CDATA[WP0062]]></name>
+</rtept>
+<rtept lat="48.626196" lon="8.995635">
+<name><![CDATA[WP0063]]></name>
+</rtept>
+<rtept lat="48.626668" lon="8.996794">
+<name><![CDATA[WP0064]]></name>
+</rtept>
+<rtept lat="48.627205" lon="8.996901">
+<name><![CDATA[WP0065]]></name>
+</rtept>
+<rtept lat="48.627902" lon="8.999047">
+<name><![CDATA[WP0066]]></name>
+</rtept>
+<rtept lat="48.628739" lon="8.999004">
+<name><![CDATA[WP0067]]></name>
+</rtept>
+<rtept lat="48.630499" lon="9.000442">
+<name><![CDATA[WP0068]]></name>
+</rtept>
+<rtept lat="48.633310" lon="9.000442">
+<name><![CDATA[WP0069]]></name>
+</rtept>
+<rtept lat="48.633910" lon="9.002008">
+<name><![CDATA[WP0070]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Siebenmühlental]]></name>
+<type><![CDATA[Schönaich]]></type>
+<extensions><gpx_style:line><gpx_style:color>FF00FF</gpx_style:color>
+</gpx_style:line></extensions>
+<rtept lat="48.660965" lon="9.067519">
+<name><![CDATA[WP0081]]></name>
+</rtept>
+<rtept lat="48.662144" lon="9.068746">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="48.662985" lon="9.070817">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="48.664275" lon="9.071968">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="48.666492" lon="9.076188">
+<name><![CDATA[WP0082]]></name>
+</rtept>
+<rtept lat="48.669555" lon="9.083805">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="48.669048" lon="9.084726">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="48.668093" lon="9.086230">
+<name><![CDATA[WP0083]]></name>
+</rtept>
+<rtept lat="48.667006" lon="9.086624">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="48.667841" lon="9.092132">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="48.668432" lon="9.091825">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="48.668915" lon="9.093408">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="48.670435" lon="9.088713">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="48.671299" lon="9.089782">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="48.673119" lon="9.089017">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="48.674697" lon="9.086492">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="48.677054" lon="9.085494">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="48.678024" lon="9.086973">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="48.678537" lon="9.086420">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="48.680941" lon="9.087916">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="48.681370" lon="9.089541">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="48.682985" lon="9.092149">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="48.686010" lon="9.101256">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="48.686911" lon="9.106381">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="48.690351" lon="9.114125">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="48.690748" lon="9.117422">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="48.689664" lon="9.120223">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="48.687946" lon="9.121792">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="48.687227" lon="9.124331">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="48.685446" lon="9.126317">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="48.685165" lon="9.127550">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="48.684634" lon="9.127998">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="48.680072" lon="9.124746">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="48.678298" lon="9.126096">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="48.676184" lon="9.126095">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="48.674323" lon="9.127247">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="48.669808" lon="9.134163">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="48.668030" lon="9.136734">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="48.666949" lon="9.139778">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="48.665725" lon="9.140688">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="48.663642" lon="9.144651">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+<rtept lat="48.661476" lon="9.146593">
+<name><![CDATA[WP0045]]></name>
+</rtept>
+<rtept lat="48.658400" lon="9.151435">
+<name><![CDATA[WP0046]]></name>
+</rtept>
+<rtept lat="48.652786" lon="9.157426">
+<name><![CDATA[WP0047]]></name>
+</rtept>
+<rtept lat="48.647274" lon="9.161357">
+<name><![CDATA[WP0048]]></name>
+</rtept>
+<rtept lat="48.642926" lon="9.166820">
+<name><![CDATA[WP0049]]></name>
+</rtept>
+<rtept lat="48.636636" lon="9.170181">
+<name><![CDATA[WP0050]]></name>
+</rtept>
+<rtept lat="48.635045" lon="9.168415">
+<name><![CDATA[WP0051]]></name>
+</rtept>
+<rtept lat="48.634115" lon="9.161030">
+<name><![CDATA[WP0052]]></name>
+</rtept>
+<rtept lat="48.635156" lon="9.158545">
+<name><![CDATA[WP0053]]></name>
+</rtept>
+<rtept lat="48.635180" lon="9.156857">
+<name><![CDATA[WP0054]]></name>
+</rtept>
+<rtept lat="48.634140" lon="9.152864">
+<name><![CDATA[WP0055]]></name>
+</rtept>
+<rtept lat="48.635384" lon="9.148529">
+<name><![CDATA[WP0056]]></name>
+</rtept>
+<rtept lat="48.635234" lon="9.139144">
+<name><![CDATA[WP0057]]></name>
+</rtept>
+<rtept lat="48.636418" lon="9.133508">
+<name><![CDATA[WP0058]]></name>
+</rtept>
+<rtept lat="48.636505" lon="9.129245">
+<name><![CDATA[WP0059]]></name>
+</rtept>
+<rtept lat="48.639037" lon="9.122994">
+<name><![CDATA[WP0060]]></name>
+</rtept>
+<rtept lat="48.638956" lon="9.121731">
+<name><![CDATA[WP0061]]></name>
+</rtept>
+<rtept lat="48.640100" lon="9.118387">
+<name><![CDATA[WP0062]]></name>
+</rtept>
+<rtept lat="48.639556" lon="9.117371">
+<name><![CDATA[WP0063]]></name>
+</rtept>
+<rtept lat="48.641639" lon="9.115042">
+<name><![CDATA[WP0064]]></name>
+</rtept>
+<rtept lat="48.643501" lon="9.108676">
+<name><![CDATA[WP0065]]></name>
+</rtept>
+<rtept lat="48.645145" lon="9.106420">
+<name><![CDATA[WP0066]]></name>
+</rtept>
+<rtept lat="48.650108" lon="9.100954">
+<name><![CDATA[WP0067]]></name>
+</rtept>
+<rtept lat="48.649920" lon="9.098772">
+<name><![CDATA[WP0068]]></name>
+</rtept>
+<rtept lat="48.650488" lon="9.095259">
+<name><![CDATA[WP0069]]></name>
+</rtept>
+<rtept lat="48.651677" lon="9.092591">
+<name><![CDATA[WP0070]]></name>
+</rtept>
+<rtept lat="48.651477" lon="9.088664">
+<name><![CDATA[WP0071]]></name>
+</rtept>
+<rtept lat="48.651890" lon="9.088079">
+<name><![CDATA[WP0072]]></name>
+</rtept>
+<rtept lat="48.651291" lon="9.082313">
+<name><![CDATA[WP0073]]></name>
+</rtept>
+<rtept lat="48.652876" lon="9.077105">
+<name><![CDATA[WP0074]]></name>
+</rtept>
+<rtept lat="48.655366" lon="9.075196">
+<name><![CDATA[WP0075]]></name>
+</rtept>
+<rtept lat="48.657325" lon="9.070557">
+<name><![CDATA[WP0076]]></name>
+</rtept>
+<rtept lat="48.658655" lon="9.068999">
+<name><![CDATA[WP0080]]></name>
+</rtept>
+<rtept lat="48.659570" lon="9.067997">
+<name><![CDATA[WP0077]]></name>
+</rtept>
+<rtept lat="48.660631" lon="9.067943">
+<name><![CDATA[WP0078]]></name>
+</rtept>
+<rtept lat="48.660642" lon="9.067508">
+<name><![CDATA[WP0079]]></name>
+</rtept>
+</rte>
+<rte>
+<name><![CDATA[Tübingen-waldhausenNachAltdorf]]></name>
+<type><![CDATA[Schönaich]]></type>
+<rtept lat="48.545428" lon="9.052155">
+<name><![CDATA[WP0001]]></name>
+</rtept>
+<rtept lat="48.555826" lon="9.049140">
+<name><![CDATA[WP0002]]></name>
+</rtept>
+<rtept lat="48.556955" lon="9.048089">
+<name><![CDATA[WP0003]]></name>
+</rtept>
+<rtept lat="48.558311" lon="9.049172">
+<name><![CDATA[WP0004]]></name>
+</rtept>
+<rtept lat="48.558510" lon="9.043068">
+<name><![CDATA[WP0005]]></name>
+</rtept>
+<rtept lat="48.559888" lon="9.042638">
+<name><![CDATA[WP0006]]></name>
+</rtept>
+<rtept lat="48.560818" lon="9.041287">
+<name><![CDATA[WP0007]]></name>
+</rtept>
+<rtept lat="48.563800" lon="9.034238">
+<name><![CDATA[WP0008]]></name>
+</rtept>
+<rtept lat="48.565170" lon="9.033369">
+<name><![CDATA[WP0009]]></name>
+</rtept>
+<rtept lat="48.568386" lon="9.032854">
+<name><![CDATA[WP0010]]></name>
+</rtept>
+<rtept lat="48.576188" lon="9.035429">
+<name><![CDATA[WP0011]]></name>
+</rtept>
+<rtept lat="48.578559" lon="9.030268">
+<name><![CDATA[WP0012]]></name>
+</rtept>
+<rtept lat="48.579340" lon="9.025333">
+<name><![CDATA[WP0013]]></name>
+</rtept>
+<rtept lat="48.580319" lon="9.022844">
+<name><![CDATA[WP0014]]></name>
+</rtept>
+<rtept lat="48.583293" lon="9.018676">
+<name><![CDATA[WP0015]]></name>
+</rtept>
+<rtept lat="48.586533" lon="9.015527">
+<name><![CDATA[WP0016]]></name>
+</rtept>
+<rtept lat="48.587754" lon="9.012630">
+<name><![CDATA[WP0017]]></name>
+</rtept>
+<rtept lat="48.588488" lon="9.007845">
+<name><![CDATA[WP0018]]></name>
+</rtept>
+<rtept lat="48.589677" lon="9.008022">
+<name><![CDATA[WP0019]]></name>
+</rtept>
+<rtept lat="48.589404" lon="9.003011">
+<name><![CDATA[WP0020]]></name>
+</rtept>
+<rtept lat="48.588559" lon="9.000839">
+<name><![CDATA[WP0021]]></name>
+</rtept>
+<rtept lat="48.588712" lon="8.999439">
+<name><![CDATA[WP0022]]></name>
+</rtept>
+<rtept lat="48.589258" lon="8.998838">
+<name><![CDATA[WP0023]]></name>
+</rtept>
+<rtept lat="48.589155" lon="8.996172">
+<name><![CDATA[WP0024]]></name>
+</rtept>
+<rtept lat="48.588769" lon="8.994943">
+<name><![CDATA[WP0025]]></name>
+</rtept>
+<rtept lat="48.587474" lon="8.993463">
+<name><![CDATA[WP0026]]></name>
+</rtept>
+<rtept lat="48.587835" lon="8.991435">
+<name><![CDATA[WP0027]]></name>
+</rtept>
+<rtept lat="48.589436" lon="8.991784">
+<name><![CDATA[WP0028]]></name>
+</rtept>
+<rtept lat="48.591157" lon="8.994777">
+<name><![CDATA[WP0029]]></name>
+</rtept>
+<rtept lat="48.592193" lon="8.992052">
+<name><![CDATA[WP0030]]></name>
+</rtept>
+<rtept lat="48.594158" lon="8.991011">
+<name><![CDATA[WP0031]]></name>
+</rtept>
+<rtept lat="48.595815" lon="8.986570">
+<name><![CDATA[WP0032]]></name>
+</rtept>
+<rtept lat="48.601757" lon="8.986945">
+<name><![CDATA[WP0033]]></name>
+</rtept>
+<rtept lat="48.604014" lon="8.987546">
+<name><![CDATA[WP0034]]></name>
+</rtept>
+<rtept lat="48.603304" lon="8.990250">
+<name><![CDATA[WP0035]]></name>
+</rtept>
+<rtept lat="48.605734" lon="8.990915">
+<name><![CDATA[WP0036]]></name>
+</rtept>
+<rtept lat="48.609760" lon="8.994176">
+<name><![CDATA[WP0037]]></name>
+</rtept>
+<rtept lat="48.611884" lon="8.994605">
+<name><![CDATA[WP0038]]></name>
+</rtept>
+<rtept lat="48.613427" lon="8.996204">
+<name><![CDATA[WP0039]]></name>
+</rtept>
+<rtept lat="48.617335" lon="8.998285">
+<name><![CDATA[WP0040]]></name>
+</rtept>
+<rtept lat="48.622825" lon="8.996011">
+<name><![CDATA[WP0041]]></name>
+</rtept>
+<rtept lat="48.624357" lon="8.996655">
+<name><![CDATA[WP0042]]></name>
+</rtept>
+<rtept lat="48.627285" lon="8.994981">
+<name><![CDATA[WP0043]]></name>
+</rtept>
+<rtept lat="48.628009" lon="8.996687">
+<name><![CDATA[WP0044]]></name>
+</rtept>
+</rte>
+</gpx>

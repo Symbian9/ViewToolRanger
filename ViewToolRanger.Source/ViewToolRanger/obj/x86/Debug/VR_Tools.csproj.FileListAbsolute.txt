@@ -1,0 +1,10 @@
+D:\Installation\C#Projects\ViewRangerConverter\ViewrangerConverterV0.0.0.1\ViewrangerConverter\bin\Debug\VR_Tools.exe
+D:\Installation\C#Projects\ViewRangerConverter\ViewrangerConverterV0.0.0.1\ViewrangerConverter\bin\Debug\VR_Tools.pdb
+D:\Installation\C#Projects\ViewRangerConverter\ViewrangerConverterV0.0.0.1\ViewrangerConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Installation\C#Projects\ViewRangerConverter\ViewrangerConverterV0.0.0.1\ViewrangerConverter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Installation\C#Projects\ViewRangerConverter\ViewrangerConverterV0.0.0.1\ViewrangerConverter\obj\x86\Debug\ShowLicense.License.resources
+D:\Installation\C#Projects\ViewRangerConverter\ViewrangerConverterV0.0.0.1\ViewrangerConverter\obj\x86\Debug\VR_Tools.Properties.Resources.resources
+D:\Installation\C#Projects\ViewRangerConverter\ViewrangerConverterV0.0.0.1\ViewrangerConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Installation\C#Projects\ViewRangerConverter\ViewrangerConverterV0.0.0.1\ViewrangerConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Installation\C#Projects\ViewRangerConverter\ViewrangerConverterV0.0.0.1\ViewrangerConverter\obj\x86\Debug\VR_Tools.exe
+D:\Installation\C#Projects\ViewRangerConverter\ViewrangerConverterV0.0.0.1\ViewrangerConverter\obj\x86\Debug\VR_Tools.pdb

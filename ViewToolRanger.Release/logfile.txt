@@ -1,0 +1,37 @@
+Log text of 05.06.2013 22:00:22Reading GPX file
+1 routes found
+Creating new voice file tags for Große Alpsee Rundwanderung_VN
+Writing GPX file
+Completed
+
+
+Reading GPX file
+1 routes found
+Creating new voice file tags for Große Alpsee Rundwanderung_VN
+Writing GPX file
+Completed
+
+
+Reading GPX file
+1 routes found
+Reversing route Große Alpsee Rundwanderung_RVN
+Creating new voice file tags for Große Alpsee Rundwanderung_RVN
+Writing GPX file
+Completed
+
+
+Reading GPX file
+1 routes found
+Reversing route Route von Familienwanderung Falkenstein_RVN
+Creating new voice file tags for Route von Familienwanderung Falkenstein_RVN
+Writing GPX file
+Completed
+
+
+Reading GPX file
+1 routes found
+Creating new voice file tags for Route von Familienwanderung Falkenstein_VN
+Writing GPX file
+Completed
+
+

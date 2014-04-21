@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" version="1.0" creator="ViewRanger - http://www.viewranger.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <rte>
+    <name><![CDATA[Jachenau_Walchensee_VN]]></name>
+    <rtept lat="47.606255" lon="11.432895">
+      <name>WP0001_VN</name>
+    </rtept>
+    <rtept lat="47.606956" lon="11.42923">
+      <name>WP0002_VN</name>
+    </rtept>
+    <rtept lat="47.611588" lon="11.420401">
+      <name>WP0003_VN</name>
+    </rtept>
+    <rtept lat="47.611446" lon="11.419006">
+      <name>WP0004_VN</name>
+    </rtept>
+    <rtept lat="47.610592" lon="11.419348">
+      <name>WP0005_VN</name>
+    </rtept>
+    <rtept lat="47.609234" lon="11.417302">
+      <name>WP0006_VN</name>
+    </rtept>
+    <rtept lat="47.60717" lon="11.418788">
+      <name>WP0007_VN</name>
+    </rtept>
+    <rtept lat="47.607872" lon="11.414657">
+      <name>WP0008_VN</name>
+    </rtept>
+    <rtept lat="47.60759" lon="11.412067">
+      <name>WP0009_VN</name>
+    </rtept>
+    <rtept lat="47.608074" lon="11.410864">
+      <name>WP0010_VN</name>
+    </rtept>
+    <rtept lat="47.606159" lon="11.4053">
+      <name>WP0011_VN</name>
+    </rtept>
+    <rtept lat="47.606907" lon="11.402366">
+      <name>WP0012_VN</name>
+    </rtept>
+    <rtept lat="47.605778" lon="11.400783">
+      <name>WP0013_VN</name>
+    </rtept>
+    <rtept lat="47.60585" lon="11.397789">
+      <name>WP0014_VN</name>
+    </rtept>
+    <rtept lat="47.607437" lon="11.39152">
+      <name>WP0015_VN</name>
+    </rtept>
+    <rtept lat="47.607197" lon="11.388797">
+      <name>WP0016_VN</name>
+    </rtept>
+    <rtept lat="47.608402" lon="11.378741">
+      <name>WP0017_VN</name>
+    </rtept>
+    <rtept lat="47.607189" lon="11.370909">
+      <name>WP0018_VN</name>
+    </rtept>
+    <rtept lat="47.607903" lon="11.369903">
+      <name>WP0019_VN</name>
+    </rtept>
+    <rtept lat="47.605831" lon="11.369396">
+      <name>WP0020_VN</name>
+    </rtept>
+    <rtept lat="47.604855" lon="11.371469">
+      <name>WP0021_VN</name>
+    </rtept>
+    <rtept lat="47.603325" lon="11.371421">
+      <name>WP0022_VN</name>
+    </rtept>
+    <rtept lat="47.601055" lon="11.367591">
+      <name>WP0023_VN</name>
+    </rtept>
+    <rtept lat="47.601536" lon="11.36466">
+      <name>WP0024_VN</name>
+    </rtept>
+    <rtept lat="47.60041" lon="11.364607">
+      <name>WP0025_VN</name>
+    </rtept>
+    <rtept lat="47.598885" lon="11.365623">
+      <name>WP0026_VN</name>
+    </rtept>
+    <rtept lat="47.59877" lon="11.369215">
+      <name>WP0027_VN</name>
+    </rtept>
+    <rtept lat="47.596367" lon="11.373698">
+      <name>WP0028_VN</name>
+    </rtept>
+    <rtept lat="47.594482" lon="11.374252">
+      <name>WP0029_VN</name>
+    </rtept>
+    <rtept lat="47.591824" lon="11.37342">
+      <name>WP0030_VN</name>
+    </rtept>
+    <rtept lat="47.590031" lon="11.374837">
+      <name>WP0031_VN</name>
+    </rtept>
+    <rtept lat="47.586601" lon="11.380728">
+      <name>WP0032_VN</name>
+    </rtept>
+    <rtept lat="47.584724" lon="11.38301">
+      <name>WP0033_VN</name>
+    </rtept>
+    <rtept lat="47.584465" lon="11.385073">
+      <name>WP0034_VN</name>
+    </rtept>
+    <rtept lat="47.586224" lon="11.394492">
+      <name>WP0035_VN</name>
+    </rtept>
+    <rtept lat="47.585827" lon="11.395626">
+      <name>WP0036_VN</name>
+    </rtept>
+    <rtept lat="47.586926" lon="11.399602">
+      <name>WP0037_VN</name>
+    </rtept>
+    <rtept lat="47.588467" lon="11.401512">
+      <name>WP0038_VN</name>
+    </rtept>
+    <rtept lat="47.589996" lon="11.401827">
+      <name>WP0039_VN</name>
+    </rtept>
+    <rtept lat="47.590992" lon="11.403145">
+      <name>WP0040_VN</name>
+    </rtept>
+    <rtept lat="47.592564" lon="11.40233">
+      <name>WP0041_VN</name>
+    </rtept>
+    <rtept lat="47.594234" lon="11.40364">
+      <name>WP0042_VN</name>
+    </rtept>
+    <rtept lat="47.596012" lon="11.408939">
+      <name>WP0043_VN</name>
+    </rtept>
+    <rtept lat="47.597645" lon="11.411048">
+      <name>WP0044_VN</name>
+    </rtept>
+    <rtept lat="47.598011" lon="11.412307">
+      <name>WP0045_VN</name>
+    </rtept>
+    <rtept lat="47.597115" lon="11.421958">
+      <name>WP0046_VN</name>
+    </rtept>
+    <rtept lat="47.598694" lon="11.423137">
+      <name>WP0047_VN</name>
+    </rtept>
+    <rtept lat="47.600193" lon="11.426245">
+      <name>WP0048_VN</name>
+    </rtept>
+    <rtept lat="47.602272" lon="11.428284">
+      <name>WP0049_VN</name>
+    </rtept>
+    <rtept lat="47.604996" lon="11.433441">
+      <name>WP0050_VN</name>
+    </rtept>
+    <rtept lat="47.606255" lon="11.433161">
+      <name>WP0051_VN</name>
+    </rtept>
+  </rte>
+</gpx>

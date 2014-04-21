@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" version="1.0" creator="ViewRanger - http://www.viewranger.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+ 
+  <rte>
+    <name><![CDATA[Jachenau_Walchensee_VN]]></name>
+    <rtept lat="47.606255" lon="11.432895">
+      <name>WPT0001_VN</name>
+      <cmt><![CDATA[<alarm><sound Start.mp3>Start.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.606956" lon="11.42923">
+      <name>WPT0002_VN</name>
+      <cmt><![CDATA[<alarm><sound 0Degree.mp3>0Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.611588" lon="11.420401">
+      <name>WPT0003_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.611446" lon="11.419006">
+      <name>WPT0004_VN</name>
+      <cmt><![CDATA[<alarm><sound 270Degree.mp3>270Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.610592" lon="11.419348">
+      <name>WPT0005_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.609234" lon="11.417302">
+      <name>WPT0006_VN</name>
+      <cmt><![CDATA[<alarm><sound 270Degree.mp3>270Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.60717" lon="11.418788">
+      <name>WPT0007_VN</name>
+      <cmt><![CDATA[<alarm><sound 135Degree.mp3>135Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.607872" lon="11.414657">
+      <name>WPT0008_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.60759" lon="11.412067">
+      <name>WPT0009_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.608074" lon="11.410864">
+      <name>WPT0010_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.606159" lon="11.4053">
+      <name>WPT0011_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.606907" lon="11.402366">
+      <name>WPT0012_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.605778" lon="11.400783">
+      <name>WPT0013_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.60585" lon="11.397789">
+      <name>WPT0014_VN</name>
+      <cmt><![CDATA[<alarm><sound 0Degree.mp3>0Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.607437" lon="11.39152">
+      <name>WPT0015_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.607197" lon="11.388797">
+      <name>WPT0016_VN</name>
+      <cmt><![CDATA[<alarm><sound 0Degree.mp3>0Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.608402" lon="11.378741">
+      <name>WPT0017_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.607189" lon="11.370909">
+      <name>WPT0018_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.607903" lon="11.369903">
+      <name>WPT0019_VN</name>
+      <cmt><![CDATA[<alarm><sound 225Degree.mp3>225Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.605831" lon="11.369396">
+      <name>WPT0020_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.604855" lon="11.371469">
+      <name>WPT0021_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.603325" lon="11.371421">
+      <name>WPT0022_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.601055" lon="11.367591">
+      <name>WPT0023_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.601536" lon="11.36466">
+      <name>WPT0024_VN</name>
+      <cmt><![CDATA[<alarm><sound 270Degree.mp3>270Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.60041" lon="11.364607">
+      <name>WPT0025_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.598885" lon="11.365623">
+      <name>WPT0026_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.59877" lon="11.369215">
+      <name>WPT0027_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.596367" lon="11.373698">
+      <name>WPT0028_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.594482" lon="11.374252">
+      <name>WPT0029_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.591824" lon="11.37342">
+      <name>WPT0030_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.590031" lon="11.374837">
+      <name>WPT0031_VN</name>
+      <cmt><![CDATA[<alarm><sound 0Degree.mp3>0Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.586601" lon="11.380728">
+      <name>WPT0032_VN</name>
+      <cmt><![CDATA[<alarm><sound 0Degree.mp3>0Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.584724" lon="11.38301">
+      <name>WPT0033_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.584465" lon="11.385073">
+      <name>WPT0034_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.586224" lon="11.394492">
+      <name>WPT0035_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.585827" lon="11.395626">
+      <name>WPT0036_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.586926" lon="11.399602">
+      <name>WPT0037_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.588467" lon="11.401512">
+      <name>WPT0038_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.589996" lon="11.401827">
+      <name>WPT0039_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.590992" lon="11.403145">
+      <name>WPT0040_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.592564" lon="11.40233">
+      <name>WPT0041_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.594234" lon="11.40364">
+      <name>WPT0042_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.596012" lon="11.408939">
+      <name>WPT0043_VN</name>
+      <cmt><![CDATA[<alarm><sound 0Degree.mp3>0Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.597645" lon="11.411048">
+      <name>WPT0044_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.598011" lon="11.412307">
+      <name>WPT0045_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.597115" lon="11.421958">
+      <name>WPT0046_VN</name>
+      <cmt><![CDATA[<alarm><sound 270Degree.mp3>270Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.598694" lon="11.423137">
+      <name>WPT0047_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.600193" lon="11.426245">
+      <name>WPT0048_VN</name>
+      <cmt><![CDATA[<alarm><sound 0Degree.mp3>0Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.602272" lon="11.428284">
+      <name>WPT0049_VN</name>
+      <cmt><![CDATA[<alarm><sound 0Degree.mp3>0Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.604996" lon="11.433441">
+      <name>WPT0050_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="47.606255" lon="11.433161">
+      <name>WPT0051_VN</name>
+      <cmt><![CDATA[<alarm><sound End.mp3>End.mp3</sound></alarm>]]></cmt>
+    </rtept>
+  </rte>
+</gpx>

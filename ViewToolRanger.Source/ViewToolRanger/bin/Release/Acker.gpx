@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" 
+creator="ViewRanger/2.9.2 http://www.viewranger.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:viewranger="http://www.viewranger.com/xmlschemas/GpxExtensions/v2"
+xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2
+http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.viewranger.com/xmlschemas/GpxExtensions/v2 http://www.viewranger.com/xmlschemas/GpxExtensions/v2/GpxExtensionsV2.xsd">
+  <rte>
+    <name><![CDATA[Acker]]></name>
+    <type><![CDATA[Schönaich]]></type>
+    <rtept lat="48.653835" lon="9.069611">
+      <name>WPT0001</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.653687" lon="9.069096">
+      <name>WPT0002</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.653325" lon="9.069149">
+      <name>WPT0003</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.651865" lon="9.070437">
+      <name>WPT0004</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.651029" lon="9.070523">
+      <name>WPT0005</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.650136" lon="9.070652">
+      <name>WPT0006</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.650107" lon="9.071596">
+      <name>WPT0007</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.650426" lon="9.072679">
+      <name>WPT0008</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.651277" lon="9.075023">
+      <name>WPT0009</name>
+      <extensions><viewranger:Proximity>25</viewranger:Proximity></extensions>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.651610" lon="9.074943">
+      <name>WPT0010</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.651950" lon="9.074407">
+      <name>WPT0011</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.652942" lon="9.073060">
+      <name>WPT0012</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.653237" lon="9.070845">
+      <name>WPT0013</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.653311" lon="9.071145">
+      <name>WPT0014</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.653453" lon="9.071338">
+      <name>WPT0015</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.654020" lon="9.070630">
+      <name>WPT0016</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.654027" lon="9.070147">
+      <name>WPT0017</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+    <rtept lat="48.653850" lon="9.069675">
+      <name>WPT0018</name>
+      <cmt><![CDATA[]]></cmt>
+    </rtept>
+  </rte>
+</gpx>

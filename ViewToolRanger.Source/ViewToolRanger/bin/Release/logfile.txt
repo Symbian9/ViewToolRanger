@@ -1,0 +1,53 @@
+Log text of 07.05.2013 20:37:03Reading GPX file
+1 routes found
+Creating new voice file tags for Acker_VN
+Writing GPX file
+Completed
+
+
+Reading GPX file
+1 routes found
+Creating new voice file tags for Acker_VN
+Writing GPX file
+Completed
+
+
+Reading GPX file
+1 routes found
+Writing GPX file
+Completed
+
+
+Reading GPX file
+<RED>Failed to load xml document 
+<RED>Exception message is Unerwartetes Ende der Datei bei der Syntaxanalyse von CDATA. Zeile 78, Position 7.
+
+Reading GPX file
+1 routes found
+Creating new voice file tags for Acker_VN
+Writing GPX file
+Completed
+
+
+Reading GPX file
+1 routes found
+Reversing route Acker_RVN
+Creating new voice file tags for Acker_RVN
+Writing GPX file
+Completed
+
+
+Reading GPX file
+1 routes found
+Creating new voice file tags for Jachenau_Walchensee_VN
+Writing GPX file
+Completed
+
+
+Reading GPX file
+1 routes found
+Creating new voice file tags for Lauftstrecke Gabi und Nicole on GPSies.com
+Writing GPX file
+Completed
+
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" 
+creator="ViewRanger/2.9.2 http://www.viewranger.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:viewranger="http://www.viewranger.com/xmlschemas/GpxExtensions/v2"
+xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2
+http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.viewranger.com/xmlschemas/GpxExtensions/v2 http://www.viewranger.com/xmlschemas/GpxExtensions/v2/GpxExtensionsV2.xsd">
+ 
+  <rte>
+    <name><![CDATA[Acker_VN]]></name>
+    <type><![CDATA[Schönaich]]></type>
+    <rtept lat="48.653835" lon="9.069611">
+      <name>WPT0001_VN</name>
+      <cmt><![CDATA[<alarm><sound Start.mp3>Start.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.653687" lon="9.069096">
+      <name>WPT0002_VN</name>
+      <cmt><![CDATA[<alarm><sound 270Degree.mp3>270Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.653325" lon="9.069149">
+      <name>WPT0003_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.651865" lon="9.070437">
+      <name>WPT0004_VN</name>
+      <cmt><![CDATA[<alarm><sound 45Degree.mp3>45Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.651029" lon="9.070523">
+      <name>WPT0005_VN</name>
+      <cmt><![CDATA[<alarm><sound 0Degree.mp3>0Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.650136" lon="9.070652">
+      <name>WPT0006_VN</name>
+      <cmt><![CDATA[<alarm><sound 270Degree.mp3>270Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.650107" lon="9.071596">
+      <name>WPT0007_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.650426" lon="9.072679">
+      <name>WPT0008_VN</name>
+      <cmt><![CDATA[<alarm><sound 0Degree.mp3>0Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.651277" lon="9.075023">
+      <name>WPT0009_VN</name>
+      <extensions><viewranger:Proximity>25</viewranger:Proximity></extensions>
+      <cmt><![CDATA[<alarm><sound 270Degree.mp3>270Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.651610" lon="9.074943">
+      <name>WPT0010_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.651950" lon="9.074407">
+      <name>WPT0011_VN</name>
+      <cmt><![CDATA[<alarm><sound 0Degree.mp3>0Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.652942" lon="9.073060">
+      <name>WPT0012_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.653237" lon="9.070845">
+      <name>WPT0013_VN</name>
+      <cmt><![CDATA[<alarm><sound 135Degree.mp3>135Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.653311" lon="9.071145">
+      <name>WPT0014_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.653453" lon="9.071338">
+      <name>WPT0015_VN</name>
+      <cmt><![CDATA[<alarm><sound 270Degree.mp3>270Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.654020" lon="9.070630">
+      <name>WPT0016_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.654027" lon="9.070147">
+      <name>WPT0017_VN</name>
+      <cmt><![CDATA[<alarm><sound 315Degree.mp3>315Degree.mp3</sound></alarm>]]></cmt>
+    </rtept>
+    <rtept lat="48.653850" lon="9.069675">
+      <name>WPT0018_VN</name>
+      <cmt><![CDATA[<alarm><sound End.mp3>End.mp3</sound></alarm>]]></cmt>
+    </rtept>
+  </rte>
+</gpx>
